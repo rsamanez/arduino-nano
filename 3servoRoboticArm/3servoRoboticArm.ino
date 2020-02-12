@@ -19,7 +19,7 @@ double delta = 0.049087385;     // angle increments
 double r = 5;                   // circle radius
 double P = 11.5;                // arm lenght
 double Q = 14.5;                // forearm length
-int y = 8;                      // origin to circle distance
+int y = 8;                      // distance to circle
 double alfa = 0;
 void setup() {
   randomSeed(analogRead(0));
